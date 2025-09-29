@@ -1,8 +1,17 @@
 [
-  {"username":"Zenx Modz","password":"123"},
-  {"username":"abc","password":"101"},
-  {"username":"def","password":"102"},
-  {"username":"ghi","password":"103"},
-  {"username":"jkl","password":"104"},
-  {"username":"mno","password":"105"}
+  {
+    "username": "admin",
+    "password": "admin123",
+    "device_id": "example_device_id_123456"
+  },
+  {
+    "username": "user1",
+    "password": "pass1",
+    "device_id": ""
+  },
+  {
+    "username": "user2",
+    "password": "pass2",
+    "device_id": "another_device_id_789"
+  }
 ]
